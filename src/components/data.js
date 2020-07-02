@@ -58,7 +58,7 @@ export const images = [
   },
   {
     id: 9,
-    src: "./img/repo.png",
+    src: "./img/repo.PNG",
     alt: "React Portfolio",
     title: "React Portfolio",
     projectUrl: "https://github.com/ahujab/Hello-Barkha",
