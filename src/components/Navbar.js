@@ -27,7 +27,7 @@ class Navbar extends React.Component {
        <Router>
         <MDBNavbar className="font-weight-bolder h6-responsive" color="elegant-color" fixed="top" dark expand="md" scrolling transparent>
             <MDBNavbarBrand className="flex-center hoverable h6-responsive">
-            <a href="https://github.com/ahujab/Barkha-Portfolio" className="text-white waves-effect waves-light repo-link" target="_blank" rel="noopener noreferrer"><MDBIcon fab icon="github-alt" /> Repo</a>
+            <a href="https://github.com/ahujab/Hello-Barkha" className="text-white waves-effect waves-light repo-link" target="_blank" rel="noopener noreferrer"><MDBIcon fab icon="github-alt" /> Repo</a>
             </MDBNavbarBrand>
             {!this.state.isWideEnough && <MDBNavbarToggler onClick={this.onClick} />}
             <MDBCollapse isOpen={this.state.collapse} navbar>
