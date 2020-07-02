@@ -4,7 +4,7 @@ A Personal Portfolio Page built using React and MDBootstrap (React Version).
 
 ## Install and Run the app
 
-* Clone this repo in your terminal with the command `git clone https://github.com/cristalnaya/react-portfolio.git`
+* Clone this repo in your terminal with the command `git clone`
 * or just download it to your computer
 * change directory into `cd react-portfolio`
 * run `npm install` in your terminal
