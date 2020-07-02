@@ -29,7 +29,7 @@ class JumbotronPage extends Component {
                 </MDBCol>
                 <MDBCol>
                 <SocialIcon className='social-icons'
-                        url="https://drive.google.com/file/d/1gUTfHRHG-lZllVIOdKbBXfV8ldaABMuo/view?usp=sharing" target="_blank" rel="noopener noreferrer" />
+                        url="https://drive.google.com/file/d/1TYkOdnSDQJUojn5badi_wAzUrFYms204/view?usp=sharing" target="_blank" rel="noopener noreferrer" />
                 </MDBCol>
             </MDBRow>
             </MDBJumbotron>
