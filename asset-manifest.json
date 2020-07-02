@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Hello-Barkha/static/css/main.7e2c3d44.chunk.css",
+    "main.js": "/Hello-Barkha/static/js/main.17215fdd.chunk.js",
+    "main.js.map": "/Hello-Barkha/static/js/main.17215fdd.chunk.js.map",
+    "runtime-main.js": "/Hello-Barkha/static/js/runtime-main.0ba16c19.js",
+    "runtime-main.js.map": "/Hello-Barkha/static/js/runtime-main.0ba16c19.js.map",
+    "static/css/2.316eaf15.chunk.css": "/Hello-Barkha/static/css/2.316eaf15.chunk.css",
+    "static/js/2.f5c087f7.chunk.js": "/Hello-Barkha/static/js/2.f5c087f7.chunk.js",
+    "static/js/2.f5c087f7.chunk.js.map": "/Hello-Barkha/static/js/2.f5c087f7.chunk.js.map",
+    "index.html": "/Hello-Barkha/index.html",
+    "precache-manifest.2b2bab2e7edc7debd12a2eb56108a540.js": "/Hello-Barkha/precache-manifest.2b2bab2e7edc7debd12a2eb56108a540.js",
+    "service-worker.js": "/Hello-Barkha/service-worker.js",
+    "static/css/2.316eaf15.chunk.css.map": "/Hello-Barkha/static/css/2.316eaf15.chunk.css.map",
+    "static/css/main.7e2c3d44.chunk.css.map": "/Hello-Barkha/static/css/main.7e2c3d44.chunk.css.map",
+    "static/js/2.f5c087f7.chunk.js.LICENSE.txt": "/Hello-Barkha/static/js/2.f5c087f7.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/Hello-Barkha/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/all.min.css": "/Hello-Barkha/static/media/fa-solid-900.f14c3b2f.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ba16c19.js",
+    "static/css/2.316eaf15.chunk.css",
+    "static/js/2.f5c087f7.chunk.js",
+    "static/css/main.7e2c3d44.chunk.css",
+    "static/js/main.17215fdd.chunk.js"
+  ]
+}
