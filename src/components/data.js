@@ -1,0 +1,141 @@
+export const images = [
+  {
+    id: 1,
+    src: "./img/graphapp.PNG",
+    alt: "GraphQL Application",
+    title: "GraphQL Application",
+    projectUrl: "https://github.com/ahujab/GraphQL-Application",
+  },
+  {
+    id: 2,
+    src: "img/code.jpg",
+    alt: "Coding-Platform",
+    title: "Coding-Platform",
+    projectUrl: "https://github.com/ahujab/Leetcode-like-Coding-Platform",
+  },
+  {
+    id: 5,
+    src: "./img/coop.jpg",
+    alt: "Co-op Application Portal",
+    title: "Co-op Application Portal",
+    projectUrl: "https://github.com/ahujab/Web-Development-tools",
+  },
+  {
+    id: 3,
+    src: "./img/big.jpg",
+    alt: "Bigdata Prototype",
+    title: "Bigdata Prototype",
+    projectUrl: "https://github.com/ahujab/Advanced-Database-Indexing",
+  },
+  {
+    id: 4,
+    src: "./img/nodeexp.png",
+    alt: "Contact APi",
+    title: "Contact APi",
+    projectUrl: "https://github.com/ahujab/Contact-Api",
+  },
+  {
+    id: 6,
+    src: "./img/tic.png",
+    alt: "TicTacToe",
+    title: "TicTacToe",
+    projectUrl: "https://github.com/ahujab/TicTacToe",
+  },
+  {
+    id: 7,
+    src: "./img/plant.jpg",
+    alt: "Plant Growth",
+    title: "Plant Growth App",
+    projectUrl: "https://github.com/ahujab/Plant-Growth-App",
+  },
+
+  {
+    id: 8,
+    src: "./img/lib.jpg",
+    alt: "Library and Book Management System",
+    title: "Library and Book Management System",
+    projectUrl: "https://github.com/ahujab/ReactJS-app",
+  },
+  {
+    id: 9,
+    src: "./img/repo.png",
+    alt: "React Portfolio",
+    title: "React Portfolio",
+    projectUrl: "https://github.com/ahujab/ReactAWS/",
+  },
+];
+
+export const icons = [
+  {
+    id: 1,
+    imgSrc: "./img/python.png",
+    alt: "Python",
+    title: "Python",
+  },
+  {
+    id: 2,
+    imgSrc: "./img/java.png",
+    alt: "Java",
+    title: "Java",
+  },
+  {
+    id: 3,
+    imgSrc: "./img/aws.png",
+    alt: "AWS",
+    title: "AWS",
+  },
+  {
+    id: 4,
+    imgSrc: "./img/node.png",
+    alt: "NodeJS",
+    title: "NodeJS",
+  },
+  {
+    id: 5,
+    imgSrc: "./img/react.png",
+    alt: "React",
+    title: "React",
+  },
+  {
+    id: 6,
+    imgSrc: "./img/spring.png",
+    alt: "Spring",
+    title: "Spring",
+  },
+  {
+    id: 7,
+    imgSrc: "./img/sql.jpg",
+    alt: "SQL",
+    title: "SQL",
+  },
+  {
+    id: 8,
+    imgSrc: "./img/mongo.jpg",
+    alt: "MongoDb",
+    title: "MongoDb",
+  },
+  {
+    id: 9,
+    imgSrc: "./img/jenkins.png",
+    alt: "Jenkins",
+    title: "Jenkins",
+  },
+  {
+    id: 10,
+    imgSrc: "./img/jira.png",
+    alt: "Jira",
+    title: "Jira",
+  },
+  {
+    id: 11,
+    imgSrc: "./img/graph.png",
+    alt: "GraphQL",
+    title: "GraphQL",
+  },
+  {
+    id: 12,
+    imgSrc: "./img/redis.png",
+    alt: "Redis",
+    title: "Redis",
+  },
+];

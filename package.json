@@ -1,0 +1,63 @@
+{
+  "name": "portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "http://ahujab.github.io/Barkha-Website",
+  "dependencies": {
+    "@fortawesome/fontawesome": "^1.1.8",
+    "@fortawesome/fontawesome-free-solid": "^5.0.13",
+    "@fortawesome/fontawesome-svg-core": "^1.2.8",
+    "@fortawesome/free-brands-svg-icons": "^5.5.0",
+    "@fortawesome/free-regular-svg-icons": "^5.5.0",
+    "@fortawesome/free-solid-svg-icons": "^5.5.0",
+    "@fortawesome/react-fontawesome": "0.1.0-11",
+    "bootstrap": "^4.3.1",
+    "mdbreact": "^4.14.0",
+    "node-sass": "^4.12.0",
+    "overwatch-side-nav": "^0.1.13",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "^3.0.1",
+    "react-scrollchor": "^6.0.0",
+    "react-stack-grid": "^0.7.1",
+    "scroll-to-element": "^2.0.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "@babel/preset-react": "^7.0.0",
+    "@fortawesome/fontawesome-free": "^5.8.2",
+    "gh-pages": "^2.2.0",
+    "react-social-icons": "^3.1.0"
+  },
+  "description": "A Personal Portfolio Page built using React and MDBootstrap (React Version).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahujab/Barkha-Website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahujab/Barkha-Website/issues"
+  }
+}
