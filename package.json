@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://ahujab.github.io/Barkha-Website",
+  "homepage": "http://ahujab.github.io/Hello-Barkha",
   "dependencies": {
     "@fortawesome/fontawesome": "^1.1.8",
     "@fortawesome/fontawesome-free-solid": "^5.0.13",
@@ -52,12 +52,12 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ahujab/Barkha-Website.git"
+    "url": "git+https://github.com/ahujab/Hello-Barkha.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ahujab/Barkha-Website/issues"
+    "url": "https://github.com/ahujab/Hello-Barkha/issues"
   }
 }
